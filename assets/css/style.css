@@ -25,11 +25,22 @@ max-height: 95vh;
  background-color: #1798c1;
 }
 
-
 .qsomos {
     background-color: #000000;
 }
-.parrafo {
+
+.destaca{
+    background-color: #000000;   
+}
+.card-text .card-title{
+    text-align:left ;
+}
+
+.tarjeta{
+    width: 259px;
+    height: 158px;
+}
+.parrafo,.card-text, .card-title {
     text-align: left;
     color: #ffffff;
 }
@@ -39,6 +50,11 @@ h4 {
     padding-bottom: 20px;
     text-align: center;
 }
+
+.card-body{
+    background-color: #328998;
+}
+
 
 .fa1 {
     text-align: center;
