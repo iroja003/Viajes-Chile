@@ -32,6 +32,10 @@ max-height: 95vh;
 .destaca{
     background-color: #000000;   
 }
+
+.contactos{
+    background-color: #000000;   
+}
 .card-text .card-title{
     text-align:left ;
 }
