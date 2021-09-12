@@ -39,7 +39,9 @@ max-height: 95vh;
 .card-text .card-title{
     text-align:left ;
 }
-
+.fondo-form{
+    background-color: #000000;   
+}
 .tarjeta{
     width: 259px;
     height: 158px;
